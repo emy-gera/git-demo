@@ -8,3 +8,5 @@ Some other words 1
 Some other words 2
 
 Some changes on song txt
+
+Tagged commit
